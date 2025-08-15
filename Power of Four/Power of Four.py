@@ -4,9 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        if n<= pow(-2,31) or n>= pow(2,31) - 1:
-            return False
-        elif n == 1 or n%4 == 0:
+        if n == 1:
             return True
-        else:
+        elif n%4 != 0 or n == 0:
             return False
+        else:
+            return self.isPowerOfFour(n/4)
