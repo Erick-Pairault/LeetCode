@@ -1,9 +1,12 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        String largest;
-        char temp = null;
+        if(num.isEmpty())
+            return ""; 
+        String largest = "";
         int count = 1;
-        for(int i = 0; i < num.length(); i++)
+        char temp = num.charAt(0);
+        
+        for(int i = 1; i < num.length(); i++)
         {
             // If we have the same consecutive numbers in char
             if(num.charAt(i) == temp) {
