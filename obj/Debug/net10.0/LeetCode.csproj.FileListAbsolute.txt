@@ -1,0 +1,15 @@
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.AssemblyInfoInputs.cache
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.AssemblyInfo.cs
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.csproj.CoreCompileInputs.cache
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.sourcelink.json
+/home/erick/LeetCode/bin/Debug/net10.0/LeetCode
+/home/erick/LeetCode/bin/Debug/net10.0/LeetCode.deps.json
+/home/erick/LeetCode/bin/Debug/net10.0/LeetCode.runtimeconfig.json
+/home/erick/LeetCode/bin/Debug/net10.0/LeetCode.dll
+/home/erick/LeetCode/bin/Debug/net10.0/LeetCode.pdb
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.dll
+/home/erick/LeetCode/obj/Debug/net10.0/refint/LeetCode.dll
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.pdb
+/home/erick/LeetCode/obj/Debug/net10.0/LeetCode.genruntimeconfig.cache
+/home/erick/LeetCode/obj/Debug/net10.0/ref/LeetCode.dll
