@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/iCACVhRR0=",
+  "success": true,
+  "projectFilePath": "/home/erick/LeetCode/LeetCode.csproj",
+  "expectedPackageFiles": [
+    "/home/erick/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.26/microsoft.netcore.app.host.linux-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
